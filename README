@@ -1,11 +1,17 @@
 SIGMA RTL
 Author: Eric Qin
+Contact: ecqin@gatech.edu
 
-Compile:
+SIGMA Flex-DPE RTL.
+
+Compile and run simulation:
 	Run "make clean test"
 
 Open Waveform Viewer:
 	Run "make dve"
+
+High level details can be found in the powerpoint.
+
 
 
 
