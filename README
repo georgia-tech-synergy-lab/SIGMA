@@ -1,0 +1,11 @@
+SIGMA RTL
+Author: Eric Qin
+
+Compile:
+	Run "make clean test"
+
+Open Waveform Viewer:
+	Run "make dve"
+
+
+
