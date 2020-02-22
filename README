@@ -6,7 +6,7 @@ Contact: ecqin@gatech.edu
 
 SIGMA Flex-DPE RTL.
 
-Compile and run simulation:
+Compile verilog files:
 	Run "make clean test"
 
 Open Waveform Viewer:
